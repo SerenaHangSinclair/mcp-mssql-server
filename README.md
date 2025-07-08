@@ -53,7 +53,7 @@ A Model Context Protocol (MCP) server for Microsoft SQL Server that provides too
 
 ## Installation
 
-### Option 1: Using pip (Recommended)
+### Option 1: Using pip
 ```bash
 pip install mcp-mssql-server
 ```
