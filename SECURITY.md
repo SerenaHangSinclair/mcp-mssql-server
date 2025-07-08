@@ -6,7 +6,7 @@ If you discover a security vulnerability in this project, please report it priva
 
 ### How to Report
 
-1. **Email**: [serena_hang@example.com]
+1. **Email**: [serena_hang@hotmail.com]
 2. **Subject**: "Security Vulnerability in mcp-mssql-server"
 3. **Include**:
    - Description of the vulnerability
