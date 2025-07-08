@@ -37,12 +37,15 @@ Thank you for your interest in contributing to this project!
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/mcp-mssql-server.git
+git clone https://github.com/serenahangsinclair/mcp-mssql-server.git
 cd mcp-mssql-server
 
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+or use uv to create virtual environment
+uv venv
 
 # Install in development mode
 pip install -e .
