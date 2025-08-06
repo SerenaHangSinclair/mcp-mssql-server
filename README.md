@@ -230,7 +230,7 @@ Create Jupyter notebook with automated analysis:
 
 ## Security
 
-🔒 **Built-in Security Features:**
+**Built-in Security Features:**
 
 - **Write operations disabled by default** - All INSERT, UPDATE, DELETE operations are blocked
 - **Granular permissions** - Enable specific operations via environment variables
